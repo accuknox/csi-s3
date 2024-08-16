@@ -14,7 +14,7 @@ require (
 	github.com/jacobsa/fuse v0.0.0-00010101000000-000000000000 // indirect
 	github.com/kahing/goofys v0.24.0
 	github.com/kubernetes-csi/csi-lib-utils v0.6.1 // indirect
-	github.com/kubernetes-csi/csi-test v2.0.0+incompatible
+	github.com/kubernetes-csi/csi-test v2.2.0+incompatible
 	github.com/kubernetes-csi/drivers v1.0.2
 	github.com/kylelemons/godebug v1.1.0 // indirect
 	github.com/minio/minio-go/v7 v7.0.5
